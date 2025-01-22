@@ -172,3 +172,5 @@ cython_debug/
 mobo_check.py
 *.h5
 out/
+notebooks/GP_ndim_v1.ipynb
+notebooks/GP_ndim_v2.ipynb
