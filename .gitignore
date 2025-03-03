@@ -175,3 +175,4 @@ out/
 notebooks/GP_ndim_v1.ipynb
 notebooks/GP_ndim_v2.ipynb
 notebooks/multitaskGP/
+notebooks/DeepGP-multitask/
