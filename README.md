@@ -2,7 +2,6 @@
 
 [![DOI](https://zenodo.org/badge/909001494.svg)](https://doi.org/10.5281/zenodo.14562669)
 
-This repository contains Jupyter notebooks and related resources for implementing **active learning techniques in microscopy**. The tools provided here are designed to accelerate data acquisition and analysis in electron microscopy workflows through machine learning-driven decision-making.
 
 ---
 
