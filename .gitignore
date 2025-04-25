@@ -177,3 +177,9 @@ notebooks/GP_ndim_v2.ipynb
 notebooks/multitaskGP/
 notebooks/DeepGP-multitask/
 *png
+
+apply_nb/richard-mobo/*py
+
+
+data/
+
