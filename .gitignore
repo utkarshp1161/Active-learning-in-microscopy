@@ -180,3 +180,6 @@ notebooks/DeepGP-multitask/
 *.npz
 
 apply_nb/
+
+notebooks/1_compare_mulittaskGP_singletaskP.ipynb
+notebooks/1b_compare_mulittaskGP_singletaskGP_BO.ipynb
