@@ -178,6 +178,7 @@ notebooks/multitaskGP/
 notebooks/DeepGP-multitask/
 
 *.npz
+*.npy
 
 apply_nb/
 
@@ -188,3 +189,5 @@ notebooks/0c_getting_started_BI-sGP-compare.ipynb
 other-repo/
 
 notebooks/novelty-search/
+notebooks/single_objective_SVDKL.ipynb
+data
