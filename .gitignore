@@ -191,3 +191,7 @@ other-repo/
 notebooks/novelty-search/
 notebooks/single_objective_SVDKL.ipynb
 data
+
+# allow this folder and everything inside it
+!notebooks/beacon-dkl/data/
+!notebooks/beacon-dkl/data/**

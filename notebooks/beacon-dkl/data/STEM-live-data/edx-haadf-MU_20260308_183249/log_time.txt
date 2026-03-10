@@ -1,0 +1,4 @@
+2026-03-08 18:32:49,008 - INFO - Starting microscope initialization...
+2026-03-08 18:32:49,103 - INFO - CETA camera initialized
+2026-03-08 18:32:49,107 - INFO - HAADF detector initialized
+2026-03-08 18:32:49,113 - INFO - Microscope initialization completed successfully
